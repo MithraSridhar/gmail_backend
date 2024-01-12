@@ -1,0 +1,111 @@
+[{
+    "_id": {
+      "$oid": "64a43b3c62e817a11ada8734"
+    },
+    "firstName": "user",
+    "lastName": "one",
+    "username": "userone@gmail.com",
+    "password": "userone@12345",
+    "securityKey": "12345",
+    "gender": "male"
+  },
+  {
+    "_id": {
+      "$oid": "64a443d8062a742a2a8be65e"
+    },
+    "firstName": "Admin",
+    "lastName": "One",
+    "username": "adminone@gmail.com",
+    "password": "adminone@12345",
+    "securityKey": "12345",
+    "gender": "male"
+  },
+  {
+    "_id": {
+      "$oid": "64a79ec206a13f7d017fa5c0"
+    },
+    "firstName": "new",
+    "lastName": "user",
+    "username": "new@gmail.com",
+    "password": "12345",
+    "securityKey": "12345",
+    "gender": "male"
+  },
+  {
+    "_id": {
+      "$oid": "64e635004b956e6583dc27e0"
+    },
+    "firstName": "user2",
+    "lastName": "user2",
+    "email": "user2@gmail.com",
+    "password": "user2user2",
+    "securityCode": "user2user2"
+  },
+  {
+    "_id": {
+      "$oid": "651e51f3bbf4bba67a6b7e4c"
+    },
+    "firstName": "logesh",
+    "lastName": "loki",
+    "username": "logesh45@gmail.com",
+    "password": "loki454545",
+    "securityKey": "454545",
+    "gender": "male"
+  },
+  {
+    "_id": {
+      "$oid": "651e52e5bbf4bba67a6b7e4d"
+    },
+    "firstName": "loki",
+    "lastName": "loki",
+    "username": "loki45@gmail.com",
+    "password": "loki454545",
+    "securityKey": "454545",
+    "gender": "male"
+  },
+  {
+    "_id": {
+      "$oid": "65335e1d36f54e57a340d154"
+    },
+    "firstName": "Shiva",
+    "lastName": "Sunchu",
+    "username": "shiva@guvi.in",
+    "password": "1234567890",
+    "securityKey": "Shiva1234$",
+    "gender": "female"
+  },
+  {
+    "_id": {
+      "$oid": "6534f9612d50650074f41fcf"
+    },
+    "firstName": "nan",
+    "lastName": "tha",
+    "username": "welcum2nantha@gmail.com",
+    "password": "Ishashaya@96",
+    "securityKey": "123456",
+    "mobile": "+91 9500586924",
+    "gender": "male"
+  },
+  {
+    "_id": {
+      "$oid": "654ca8dd59920ca925dfb4e4"
+    },
+    "firstName": "ahmad",
+    "lastName": "tabassum",
+    "username": "ahmad@gmail.com",
+    "password": "ahmad890T",
+    "securityKey": "12345",
+    "mobile": "+92 3019243910",
+    "gender": "male"
+  },
+  {
+    "_id": {
+      "$oid": "6580e6f150ae481b5019779b"
+    },
+    "firstName": "althea",
+    "lastName": "fabi",
+    "username": "altheafabi@gmail.com",
+    "password": "loveyoumommy",
+    "securityKey": "lobeyoumommy",
+    "gender": "other"
+  }]

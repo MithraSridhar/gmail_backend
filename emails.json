@@ -1,0 +1,525 @@
+[{
+    "_id": {
+      "$oid": "64a80196e27bc7d53892f173"
+    },
+    "emailTo": "new@gmail.com",
+    "emailFrom": "new@gmail.com",
+    "senderName": "new user",
+    "emailSubject": "Subject1",
+    "emailContent": "Hello Everyone",
+    "emailDate": "7/7/2023, 5:44:14 PM",
+    "isSent": true,
+    "isImportant": true,
+    "isStarred": true,
+    "isSpam": true,
+    "isTrashed": true
+  },
+  {
+    "_id": {
+      "$oid": "64a80277e27bc7d53892f174"
+    },
+    "emailTo": "new@gmail.com",
+    "emailFrom": "new@gmail.com",
+    "senderName": "new user",
+    "emailSubject": "Subject2",
+    "emailContent": "Hello Everyone",
+    "emailDateTime": "7/7/2023, 5:48:00 PM",
+    "isSent": true,
+    "isImportant": true,
+    "isStarred": true,
+    "isSpam": true,
+    "isTrashed": true
+  },
+  {
+    "_id": {
+      "$oid": "64a83f0ad0c36e5b20cd4fa1"
+    },
+    "emailTo": "new@gmail.com",
+    "emailFrom": "new@gmail.com",
+    "senderName": "new user",
+    "emailSubject": "Subject3",
+    "emailContent": "Hello Everyone",
+    "emailDateTime": "7/7/2023, 10:06:03 PM",
+    "isSent": true,
+    "isImportant": true,
+    "isStarred": true,
+    "isSpam": true,
+    "isTrashed": true
+  },
+  {
+    "_id": {
+      "$oid": "64a83f29d0c36e5b20cd4fa4"
+    },
+    "emailTo": "new@gmail.com",
+    "emailFrom": "new@gmail.com",
+    "senderName": "new user",
+    "emailSubject": "Subject4",
+    "emailContent": "Hello Everyone",
+    "emailDateTime": "7/7/2023, 10:06:55 PM",
+    "isSent": true,
+    "isImportant": true,
+    "isStarred": true,
+    "isSpam": true,
+    "isTrashed": true
+  },
+  {
+    "_id": {
+      "$oid": "64a83fa4d0c36e5b20cd4fa7"
+    },
+    "emailTo": "new@gmail.com",
+    "emailFrom": "new@gmail.com",
+    "senderName": "new user",
+    "emailSubject": "Subject5",
+    "emailContent": "Hello Everyone",
+    "emailDateTime": "7/7/2023, 10:08:58 PM",
+    "isSent": true,
+    "isImportant": true,
+    "isStarred": true,
+    "isSpam": true,
+    "isTrashed": true
+  },
+  {
+    "_id": {
+      "$oid": "64a841c5d0c36e5b20cd4fa9"
+    },
+    "emailTo": "new@gmail.com",
+    "emailFrom": "new@gmail.com",
+    "senderName": "new user",
+    "emailSubject": "Subject6",
+    "emailContent": "Hello Everyone",
+    "emailDateTime": "7/7/2023, 10:18:04 PM",
+    "isSent": true,
+    "isImportant": true,
+    "isStarred": true,
+    "isSpam": true,
+    "isTrashed": true
+  },
+  {
+    "_id": {
+      "$oid": "64a845aed0c36e5b20cd4fac"
+    },
+    "emailTo": "new@gmail.com",
+    "emailFrom": "new@gmail.com",
+    "senderName": "new user",
+    "emailSubject": "Subject7",
+    "emailContent": "Hello Everyone",
+    "emailDateTime": "7/7/2023, 10:34:43 PM",
+    "isSent": true,
+    "isImportant": true,
+    "isStarred": true,
+    "isSpam": true,
+    "isTrashed": true
+  },
+  {
+    "_id": {
+      "$oid": "64a84648d0c36e5b20cd4fad"
+    },
+    "emailTo": "new@gmail.com",
+    "emailFrom": "new@gmail.com",
+    "senderName": "new user",
+    "emailSubject": "Subject8",
+    "emailContent": "Hello Everyone",
+    "emailDateTime": "7/7/2023, 10:37:19 PM",
+    "isSent": true,
+    "isImportant": true,
+    "isStarred": true,
+    "isSpam": true,
+    "isTrashed": true
+  },
+  {
+    "_id": {
+      "$oid": "64a8467fd0c36e5b20cd4fb0"
+    },
+    "emailTo": "new@gmail.com",
+    "emailFrom": "new@gmail.com",
+    "senderName": "new user",
+    "emailSubject": "Subject9",
+    "emailContent": "Hello Everyone",
+    "emailDateTime": "7/7/2023, 10:38:13 PM",
+    "isSent": true,
+    "isImportant": true,
+    "isStarred": true,
+    "isSpam": true,
+    "isTrashed": true
+  },
+  {
+    "_id": {
+      "$oid": "64a84683d0c36e5b20cd4fb2"
+    },
+    "emailTo": "new@gmail.com",
+    "emailFrom": "new@gmail.com",
+    "senderName": "new user",
+    "emailSubject": "Subject10",
+    "emailContent": "Hello Everyone",
+    "emailDateTime": "7/7/2023, 10:38:18 PM",
+    "isSent": true,
+    "isImportant": true,
+    "isStarred": true,
+    "isSpam": true,
+    "isTrashed": true
+  },
+  {
+    "_id": {
+      "$oid": "64a846acd0c36e5b20cd4fb3"
+    },
+    "emailTo": "new@gmail.com",
+    "emailFrom": "new@gmail.com",
+    "senderName": "new user",
+    "emailSubject": "Subject11",
+    "emailContent": "Hello Everyone",
+    "emailDateTime": "7/7/2023, 10:38:58 PM",
+    "isSent": true,
+    "isImportant": true,
+    "isStarred": true,
+    "isSpam": true,
+    "isTrashed": true
+  },
+  {
+    "_id": {
+      "$oid": "64a846b0d0c36e5b20cd4fb5"
+    },
+    "emailTo": "new@gmail.com",
+    "emailFrom": "new@gmail.com",
+    "senderName": "new user",
+    "emailSubject": "Subject12",
+    "emailContent": "Hello Everyone",
+    "emailDateTime": "7/7/2023, 10:39:04 PM",
+    "isSent": true,
+    "isImportant": true,
+    "isStarred": true,
+    "isSpam": true,
+    "isTrashed": true,
+    "important": true
+  },
+  {
+    "_id": {
+      "$oid": "64a84774d0c36e5b20cd4fb9"
+    },
+    "emailTo": "new@gmail.com",
+    "emailFrom": "new@gmail.com",
+    "senderName": "new user",
+    "emailSubject": "Subject13",
+    "emailContent": "ddsdsd",
+    "emailDateTime": "7/7/2023, 10:42:18 PM",
+    "read": false,
+    "isSent": true,
+    "isImportant": true,
+    "isStarred": true,
+    "isSpam": true,
+    "isTrashed": true,
+    "important": true
+  },
+  {
+    "_id": {
+      "$oid": "64acd67fa7ffe37fb6c4fae5"
+    },
+    "emailTo": "userone@gmail.com",
+    "emailFrom": "userone@gmail.com",
+    "senderName": "user one",
+    "emailSubject": "Subject14",
+    "emailContent": "Hello Everyone",
+    "emailDateTime": "7/11/2023, 9:41:42 AM",
+    "isSent": true,
+    "isImportant": true,
+    "isStarred": true,
+    "isSpam": true,
+    "isTrashed": true,
+    "draftEmail": true
+  },
+  {
+    "_id": {
+      "$oid": "64acd7a0a7ffe37fb6c4fae6"
+    },
+    "emailTo": "userone@gmail.com",
+    "emailFrom": "userone@gmail.com",
+    "senderName": "user one",
+    "emailSubject": "Subject15",
+    "emailContent": "Hello Everyone",
+    "emailDateTime": "7/11/2023, 9:46:31 AM",
+    "draftEmail": true,
+    "isSent": true,
+    "isImportant": true,
+    "isStarred": true,
+    "isSpam": true,
+    "isTrashed": true
+  },
+  {
+    "_id": {
+      "$oid": "64ad9475f14987e36e226ed5"
+    },
+    "emailTo": "deenraj417182@gmail.com",
+    "emailFrom": "userone@gmail.com",
+    "senderName": "user one",
+    "emailSubject": "Subject16",
+    "emailContent": "hai",
+    "emailDateTime": "7/11/2023, 11:12:11 PM",
+    "read": false,
+    "isSent": true,
+    "isImportant": true,
+    "isStarred": true,
+    "isSpam": true,
+    "isTrashed": true    
+  },
+  {
+    "_id": {
+      "$oid": "64aedc61a8ae19d3ac174585"
+    },
+    "emailTo": "deenraj417182@gmail.com",
+    "emailFrom": "userone@gmail.com",
+    "senderName": "user one",
+    "emailSubject": "Subject17",
+    "emailContent": "sdfghjkl;",
+    "emailDateTime": "7/12/2023, 10:31:18 PM",
+    "read": false,
+    "isSent": true,
+    "isImportant": true,
+    "isStarred": true,
+    "isSpam": true,
+    "isTrashed": true    
+  },
+  {
+    "_id": {
+      "$oid": "64c214184ac98472ea6d02af"
+    },
+    "emailTo": "userone@gmail.com",
+    "emailFrom": "userone@gmail.com",
+    "senderName": "user one",
+    "emailSubject": "Subject18",
+    "emailContent": "Hello Everyone",
+    "emailDateTime": "7/27/2023, 12:21:58 PM",
+    "read": null,
+    "isSent": true,
+    "isImportant": true,
+    "isStarred": true,
+    "isSpam": true,
+    "isTrashed": true
+  },
+  {
+    "_id": {
+      "$oid": "64d23b353fa21fd46dbc47ed"
+    },
+    "emailTo": "sdfdssdfds@gmail.com",
+    "emailFrom": "userone@gmail.com",
+    "senderName": "user one",
+    "emailSubject": "Subject19",
+    "emailContent": "sdfsdf",
+    "emailDateTime": "8/8/2023, 8:55:15 PM",
+    "read": false,
+    "isSent": true,
+    "isImportant": true,
+    "isStarred": true,
+    "isSpam": true,
+    "isTrashed": true
+    
+  },
+  {
+    "_id": {
+      "$oid": "64d23b583fa21fd46dbc47ee"
+    },
+    "emailTo": "userone@gmail.com",
+    "emailFrom": "userone@gmail.com",
+    "senderName": "user one",
+    "emailSubject": "Subject20",
+    "emailContent": "sdfsdf",
+    "emailDateTime": "8/8/2023, 8:55:50 PM",
+    "read": null,
+    "isSent": true,
+    "isImportant": true,
+    "isStarred": true,
+    "isSpam": true,
+    "isTrashed": true
+    
+  },
+  {
+    "_id": {
+      "$oid": "65088f91668facf0c9cd6faa"
+    },
+    "emailTo": "userone@gmail.com",
+    "emailFrom": "userthree@gmail.com",
+    "emailFromName": "user three",
+    "emailSub": "Subject21",
+    "emailContent": "wqwqw",
+    "emailDateTime": "9/18/2023, 11:27:07 PM",
+    "draftEmail": true,
+    "isSent": true,
+    "isImportant": true,
+    "isStarred": true,
+    "isSpam": true,
+    "isTrashed": true
+  },
+  {
+    "_id": {
+      "$oid": "650e8779f159758685dddc7e"
+    },
+    "emailTo": "userone@gmail.com",
+    "emailFrom": "userone@gmail.com",
+    "emailFromName": "user one",
+    "emailSub": "Subject22",
+    "emailContent": "userone@gmail.com",
+    "emailDateTime": "9/23/2023, 12:06:39 PM",
+    "draftEmail": true,
+    "isSent": true,
+    "isImportant": true,
+    "isStarred": true,
+    "isSpam": true,
+    "isTrashed": true
+  },
+  {
+    "_id": {
+      "$oid": "6538ce66731bbda0d384325d"
+    },
+    "emailTo": "sathishrameshkec@gmail.com",
+    "emailFrom": "userone@gmail.com",
+    "senderName": "user one",
+    "emailSubject": "testing",
+    "emailContent": "hi",
+    "emailDateTime": "10/25/2023, 1:44:28 PM",
+    "read": false,
+    "isSent": true,
+    "isImportant": true,
+    "isStarred": true,
+    "isSpam": true,
+    "isTrashed": true
+    
+  },
+  {
+    "_id": {
+      "$oid": "653a22b57ab49dc02436912e"
+    },
+    "emailTo": "voxopa9211@unbiex.com",
+    "emailFrom": "userone@gmail.com",
+    "senderName": "user one",
+    "emailSubject": "ee",
+    "emailContent": "wewewe",
+    "emailDateTime": "26/10/2023, 10:26:28",
+    "read": false,
+    "isSent": true,
+    "isImportant": true,
+    "isStarred": true,
+    "isSpam": true,
+    "isTrashed": true
+    
+  },
+  {
+    "_id": {
+      "$oid": "653a23057ab49dc02436912f"
+    },
+    "emailTo": "hamlararzo@gufum.com",
+    "emailFrom": "userone@gmail.com",
+    "senderName": "user one",
+    "emailSubject": "ww",
+    "emailContent": "dwdwdw",
+    "emailDateTime": "26/10/2023, 10:27:47",
+    "read": false,
+    "isSent": true,
+    "isImportant": true,
+    "isStarred": true,
+    "isSpam": true,
+    "isTrashed": true
+    
+  },
+  {
+    "_id": {
+      "$oid": "653a40221f7119e606a1d401"
+    },
+    "emailTo": "shiva@guvi.in",
+    "emailFrom": "userone@gmail.com",
+    "senderName": "user one",
+    "emailSubject": "The subject",
+    "emailContent": "The body.",
+    "emailDateTime": "10/26/2023, 4:02:00 PM",
+    "read": false,
+    "isSent": true,
+    "isImportant": true,
+    "isStarred": true,
+    "isSpam": true,
+    "isTrashed": true
+  },
+  {
+    "_id": {
+      "$oid": "654ca918264a92f9a1a8c9e8"
+    },
+    "emailTo": "tabassumch.ishere@gmail.com",
+    "emailFrom": "ahmad@gmail.com",
+    "senderName": "ahmad tabassum",
+    "emailSubject": "hy",
+    "emailContent": "hy test",
+    "emailDateTime": "09/11/2023, 14:39:44",
+    "read": false,
+    "isSent": true,
+    "isImportant": true,
+    "isStarred": true,
+    "isSpam": true,
+    "isTrashed": true    
+  },
+  {
+    "_id": {
+      "$oid": "654ca977264a92f9a1a8c9e9"
+    },
+    "emailTo": "dnmca@gmail.com",
+    "emailFrom": "ahmad@gmail.com",
+    "senderName": "ahmad tabassum",
+    "emailSubject": "Subject22",
+    "emailContent": "azs",
+    "emailDateTime": "09/11/2023, 14:41:19",
+    "read": false,
+    "isSent": true,
+    "isImportant": true,
+    "isStarred": true,
+    "isSpam": true,
+    "isTrashed": true    
+  },
+  {
+    "_id": {
+      "$oid": "656fa1d3034158e37b596f1b"
+    },
+    "emailTo": "7a27e7656fa1c6@gmail.com",
+    "emailFrom": "userone@gmail.com",
+    "senderName": "user one",
+    "emailSubject": "rwerew",
+    "emailContent": "rewrw",
+    "emailDateTime": "05/12/2023, 22:18:58",
+    "read": false,
+    "isSent": true,
+    "isImportant": true,
+    "isStarred": true,
+    "isSpam": true,
+    "isTrashed": true
+    
+  },
+  {
+    "_id": {
+      "$oid": "659653f5531d38b35880351c"
+    },
+    "emailTo": "akashmf283@gmail.com",
+    "emailFrom": "userone@gmail.com",
+    "senderName": "user one",
+    "emailSubject": "bye",
+    "emailContent": "heehee",
+    "emailDateTime": "1/4/2024, 12:15:01 PM",
+    "read": false,
+    "isSent": true,
+    "isImportant": true,
+    "isStarred": true,
+    "isSpam": true,
+    "isTrashed": true
+    
+  },
+  {
+    "_id": {
+      "$oid": "659653f5531d38b35880351d"
+    },
+    "emailTo": "akashmf283@gmail.com",
+    "emailFrom": "userone@gmail.com",
+    "senderName": "user one",
+    "emailSubject": "bye",
+    "emailContent": "heehee",
+    "emailDateTime": "1/4/2024, 12:15:08 PM",
+    "read": false,
+    "isSent": true,
+    "isImportant": true,
+    "isStarred": true,
+    "isSpam": true,
+    "isTrashed": true
+    
+  }]
