@@ -18,14 +18,29 @@ router.get('/', async (req,res)=>{
 //get all emails of a user
 router.post('/getUserEmail', async (req,res)=>{
     const emailTo = req.body.emailTo
+    const sort = { _id:-1};
     try{
-        const userEmails = await emailModel.find({emailTo:emailTo});
+        const userEmails = await emailModel.find({emailTo:emailTo}).sort(sort);
         res.send(userEmails)
     }
     catch(error){
         res.status(400).json(error)
      }
 })
+
+//get all sent emails of a user
+router.post('/getUserSentEmail', async (req,res)=>{
+    const emailFrom = req.body.emailFrom
+    const sort = { _id:-1};
+    try{
+        const userSentEmails = await emailModel.find({emailFrom:emailFrom}).sort(sort);
+        res.send(userSentEmails)
+    }
+    catch(error){
+        res.status(400).json(error)
+     }
+})
+
 
 //send new email to user
 router.post('/newEmail', async (req,res)=>{

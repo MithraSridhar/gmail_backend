@@ -7,7 +7,7 @@ const emailSchema=mongoose.Schema(
         senderName: {type: String,required: true},
         emailSubject: {type: String,required: true},
         emailContent: {type: String,required: true},
-        emailDateTime: {type: String,required: false,default: new Date().toLocaleString() + "" },
+        emailDateTime: {type: String,required: false,default: new Date()},
         isSent: {type: Boolean,required: false},
         isImportant: {type: Boolean,required: false},
         isStarred: {type: Boolean,required: false},
