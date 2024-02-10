@@ -17,8 +17,8 @@ app.get("/",(req,res)=>{
 })
 
 mongoose.connect(process.env.MONGO_URL).then(()=>{
-    console.log("Mongoose is connected")
-    app.listen(PORT,()=> console.log("Server started on port", PORT))
+    //console.log("Mongoose is connected")
+    app.listen(PORT)
 })
 .catch((err)=>{console.log("Error", err)})
 
